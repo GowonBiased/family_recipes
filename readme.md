@@ -2,5 +2,5 @@
 
 Set of recipes as given by my grandma.
 
-- sauceasva (TODO)
-- spreavasvasdds (TODO)
+- sauces (TODO)
+- spreads (TODO)
